@@ -13,7 +13,14 @@
 
 - 📄 Know about my experiences [syon.me](syon.me)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Achievements: </h3>
+
+- 💻 Low Level Lover
+- 🧠 Machine Learning Enthusiast
+- 📖 Medium Writer 
+- ✉️ Email me 
+- 👦 About me: 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete
+
 <p align="left">
 </p>
 
