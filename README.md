@@ -15,11 +15,11 @@
 
 <h3 align="left">Achievements: </h3>
 
-- 💻 Low Level Lover
-- 🧠 Machine Learning Enthusiast
-- 📖 Medium Writer 
-- ✉️ Email me 
-- 👦 About me: 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete
+- 🏆 Sophmore Salutatorian/Top 10%
+- 📝 HOSA Chapter President-Elect & State Champion 
+- ❤️ EMR and Phlebotomy Student
+- 🏫 Student Ambassador of Empower College and Career Center 
+- 👦 About me: 👨‍⚕️ Future Doctor, 🧪 Chemistry Enthusiast, 🧠 Neuroscientist 
 
 <p align="left">
 </p>
